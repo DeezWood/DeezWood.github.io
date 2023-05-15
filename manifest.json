@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "LAAB_OD",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "deezwood.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "deezwood.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
